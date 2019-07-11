@@ -439,10 +439,10 @@ export const Feature50DataSource = {
               <>
                 <span>
                   <h1>Artemis full node wallet</h1>
-                  <p>Synchronize completed Artemis blockchain ledger.</p>
-                  <p>Secure, wallet keys are protected with password and kept in local disk.</p>
-                  <p>Flexible, support to program new crypto-currencies.</p>
-                  <p>Full node wallet is required for mining.</p>
+                  <p>-Synchronize completed Artemis blockchain ledger.</p>
+                  <p>-Secure, wallet keys are protected with password and kept in local disk.</p>
+                  <p>-Flexible, support to program new crypto-currencies.</p>
+                  <p>-Full node wallet is required for mining.</p>
                   <br />
                   <div key="button1" className="download-button clearfix">
                     <a href='https://github.com/artemis-project-team/artemis/releases' target='_blank'> Dowload for Windows </a>
@@ -471,18 +471,19 @@ export const Feature50DataSource = {
         content: {
           className: 'content7-content',
           text: {
-            className: 'content7-text',
+            className: 'content7-text-center',
             md: 14,
             xs: 24,
             children: (
               <>
                 <span>
+                
                   <h1>Miner</h1>
                   <p>
                     <a href='https://github.com/JohnnyFFM/miner-burst/releases' target='_blank'> github.com/JohnnyFFM/miner-burst/releases </a>
                   </p>
                   <h1>Plotter</h1>
-                  <a href='	https://github.com/Blagodarenko/XPlotter' target='_blank'> github.com/Blagodarenko/XPlotter </a>
+                  <a href='https://github.com/Blagodarenko/XPlotter' target='_blank'> github.com/Blagodarenko/XPlotter </a>
                 </span>
               </>
             ),

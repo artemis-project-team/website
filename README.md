@@ -11,7 +11,7 @@ $ npm start         # visit http://localhost:3000
 ## Build
 
 ```bash
-$ npm build
+$ npm run build
 ```
 
 ## Contributing
